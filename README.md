@@ -37,7 +37,7 @@ I am <strong class="my-name">Robson Kanhalelo</strong>
       </div>
       <br />
       <div>
-        Find me writing on
+        Find me writing on:
         <a
           style="color: tomato;"
           target="_blank"
@@ -46,7 +46,7 @@ I am <strong class="my-name">Robson Kanhalelo</strong>
         >
       </div>
       <div>
-        Solving CP problems @
+        Solving CP problems on:
         <a
           style="color: tomato;"
           target="_blank"
@@ -55,7 +55,7 @@ I am <strong class="my-name">Robson Kanhalelo</strong>
         >
       </div>
       <div>
-        Making memes on
+        Making memes on:
         <a
           style="color: tomato;"
           href="https://kanhalelor.github.io/assets/dev-jokes.html"
