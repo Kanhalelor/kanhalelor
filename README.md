@@ -65,5 +65,5 @@ I am <strong class="my-name">Robson Kanhalelo</strong>
       <br />
       <div class="separator"></div>
       <div class="contact-div">
-          <a href="kanhalelor.github.io">Currently available for hire!</a>
+          <a href="https://kanhalelor.github.io">Currently available for hire!</a>
          
