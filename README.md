@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I am <strong class="my-name">Robson Kanhalelo</strong>
 </p>
       <div class="intro">
-        I am a self-employed <strong>Software Developer</strong> and, a third 
+        I am a <strong>Software Developer</strong> and, a third 
           year <strong>Math and Science Teacher</strong>  who enjoys <i>learning</i> and <i>building</i> software.
           </p>
       </div>
