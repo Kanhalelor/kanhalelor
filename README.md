@@ -40,4 +40,5 @@ I am a **Software Developer** and, a final year **Math and Science Teacher** who
 
 ### Follow My work;
 
-![Website](https://img.shields.io/website?logoColor=blue&style=for-the-badge&up_message=live&url=https%3A%2F%2Fkanhalelor.github.io)
+![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fkanhalelor.github.io%2F)
+
