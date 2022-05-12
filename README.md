@@ -34,7 +34,7 @@ I am a **Software Developer** and, a final year **Math and Science Teacher** who
 
 🟠 Solving CP problems at: <a style="color: tomato;" target="_blank" href="codingbat.com">codingbat</a>
 
-🔵 Making memes on: <a style="color: tomato;" href="https://kanhalelor.github.io/assets/dev-jokes.html">meme gallery</a>
+🔵 Posting memes on: <a style="color: tomato;" href="https://kanhalelor.github.io/assets/dev-jokes.html">meme gallery</a>
          
 ---
 
