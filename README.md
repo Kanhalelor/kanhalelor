@@ -32,7 +32,7 @@ I am a **Software Developer** and, a final year **Math and Science Teacher** who
 
 🔴 Find me writing on: <a style="color: tomato;" target="_blank" href="https://hashnode.com/@robson">Hashnode Network</a>
 
-🟠 Solving CP problems on: <a style="color: tomato;" target="_blank" href="https://www.codewars.com/users/Two10">codewars</a>
+🟠 Solving CP problems at: <a style="color: tomato;" target="_blank" href="codingbat.com">codingbat</a>
 
 🔵 Making memes on: <a style="color: tomato;" href="https://kanhalelor.github.io/assets/dev-jokes.html">meme gallery</a>
          
