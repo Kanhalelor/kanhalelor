@@ -30,11 +30,9 @@ I am a **Software Developer** and, a final year **Math and Science Teacher** who
 </ul>
 
 
-🔴 Find me writing on: <a style="color: tomato;" target="_blank" href="https://hashnode.com/@robson">Hashnode Network</a>
+🔵 Find me writing on: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@robson)
 
-🟠 Solving CP problems at: <a style="color: tomato;" target="_blank" href="codingbat.com">codingbat</a>
-
-🔵 Posting memes on: <a style="color: tomato;" href="https://kanhalelor.github.io/assets/dev-jokes.html">meme gallery</a>
+🟠 Solving CP problems on: [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/)
          
 ---
 
