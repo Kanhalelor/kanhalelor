@@ -32,7 +32,7 @@ I am a **Software Developer** and, a final year **Math and Science Teacher** who
 
 🔵 Find me writing on: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@robson)
 
-🟠 Solving CP problems on: [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/)
+🟠 Solving CP problems on: [![Codingbat](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codingbat.com/)
          
 ---
 
