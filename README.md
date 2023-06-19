@@ -6,13 +6,13 @@
 
 ### I am Robson Kanhalelo
 
-I am a **"Software Developer" , "Data Analysist"** -- who enjoys *learning* and *building* software.
+I am a **Software Developer , Data Analysist** -- who enjoys *learning* and *building* software.
 
 ### Besides coding, I like;
 <ul>
-<li><span class="emoji">&#127907</span> <span>Fishing</span></li>
-<li><span class="emoji">&#128214</span> <span>Reading</span> </li>
-<li><span class="emoji">&#9917</span>   <span>Playing soccer</span></li>
+         <li><span class="emoji">&#128214</span> <span>Reading</span> </li>
+         <li><span class="emoji">&#127907</span> <span>Fishing</span></li>
+         <li><span class="emoji">&#9917</span>   <span>Playing soccer</span></li>
 </ul>
 
 
@@ -27,4 +27,4 @@ I am a **"Software Developer" , "Data Analysist"** -- who enjoys *learning* and 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fkanhalelor.github.io%2F)](https://kanhalelor.github.io/)
 --
 
-## 🔵 Currently Available for remote work _Only_.
+## 🔵 Currently Available for _Startups, Collaborative Projects & anything Tech related_.
