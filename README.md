@@ -15,6 +15,7 @@ I am a **Software Developer , Data Analysist** -- who enjoys *learning* and *bui
          <li><span class="emoji">&#9917</span>   <span>Playing soccer</span></li>
 </ul>
 
+---
 
 🔵 Find me writing on: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@robson)
 
@@ -22,9 +23,9 @@ I am a **Software Developer , Data Analysist** -- who enjoys *learning* and *bui
          
 ---
 
-### Follow My work;
+## 🔵 Currently Available for _Startups, Collaborative Projects & anything Tech related_.
+
+---
+### Follow my work on;
 
 [![Website](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fkanhalelor.github.io%2F)](https://kanhalelor.github.io/)
---
-
-## 🔵 Currently Available for _Startups, Collaborative Projects & anything Tech related_.
