@@ -17,7 +17,7 @@ I am a **Software Developer , Data Analysist** -- who enjoys *learning* and *bui
 
 ---
 
-🔵 Find me writing on: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@robson)
+🔵 Find me writing on: [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com)
 
 🟠 Attempting Coding Challenges on: [![Codingbat](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codingbat.com/)
          
