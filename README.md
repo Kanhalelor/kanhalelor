@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available [here](https://github.com/Kanhalelor?tab=repositories)
 
 # My Last Blog posts
-- [Are our classrooms ready for the 4IR?](https://kanhalelor.github.io/blog/01-06-2024-Are-our-classrooms-ready-for-the-4IR.html)
+- [My PyCon DE & PyData experience](https://kanhalelor.github.io/blog/01-05-2025-pycon-de-pydata-darmsdadt.html)
 
 
 <p align="center"> 
