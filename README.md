@@ -55,12 +55,19 @@ Here are some ideas to get you started:
 # My Last Blog posts
 - [From limited resources to victory: How my school learners won the NUST Annual Programming Competition using Python](https://kanhalelor.github.io/blog/nust-2025-annua-programming-competition-winners.html)
 
+---
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=kanhalelor&show_icons=true" alt="kanhalelor" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhalelor&layout=compact" alt="kanhalelor" />
+<p align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanhalelor&show_icons=true&theme=radical" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhalelor&layout=compact&theme=vision-friendly-dark" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhalelor&theme=black-ice"  />
+  <br />
 </p>
 
+---
 
 <p align="center">
   <a href="https://kanhalelor.github.io/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://kanhalelor.github.io/" height="32" width="32" /></a>
