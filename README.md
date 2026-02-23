@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available [here](https://github.com/Kanhalelor?tab=repositories)
 
 # My Last Blog posts
-- [My PyCon DE & PyData experience](https://kanhalelor.github.io/blog/01-05-2025-pycon-de-pydata-darmsdadt.html)
+- [From limited resources to victory: How my school learners won the NUST Annual Programming Competition using Python](https://kanhalelor.github.io/blog/nust-2025-annua-programming-competition-winners.html)
 
 
 <p align="center"> 
