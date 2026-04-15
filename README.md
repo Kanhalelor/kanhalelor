@@ -17,7 +17,7 @@ I’m a passionate **software developer and educator** from Namibia, dedicated t
 * 👨‍🏫 Computer Science Educator
 * 🎓 Master's Student in Educational Technology
 * 💡 Advocate for Open Source Software in Education
-* 🎤 International Speaker (PyCon Africa, PyCon ZA)
+* 🎤 International Speaker
 * 👨‍💻 Full-Stack Developer
 
 ---
