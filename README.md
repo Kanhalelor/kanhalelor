@@ -1,76 +1,94 @@
-<!--
-**kanhalelor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m Full-Stack Software Engineer
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-  -
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Robson Kanhalelo!</h1>
-
-<h3 align="center">A Software Developer passionate about building inclusive communities and  Open Source.</h3>
-<br>
-<p align="center">
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jquery_logo.svg" alt="jquery" width="20" height="20" />
-<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="react" width="20" height="20" />
-
- <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="20" height="20"/> 
- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="20" height="20"/> 
- <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
- 
-<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="20" height="20" /> 
-<img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="20" height="20" />
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="20" height="20" />
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="20" height="20" />
-<br>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"  width="20" height="20" /> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"  width="20" height="20" /> 
-<img src="https://img.icons8.com/color/64/000000/oracle-logo.png" alt="oracle"  width="20" height="20" /> 
- 
-<img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="20" height="20" />
-<img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="android"  width="20" height="20" />
-
-<img src="https://www.vectorlogo.zone/logos/auth0/auth0-ar21.svg" alt="Auth0" height="20" />
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="20" height="20" />
-<img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
- 
+# 👋 Hi, I'm Robson Kanhalelo
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kanhalelor&color=green" alt="kanhalelor" />
-   <a href="https://twitter.com/intent/follow?screen_name=kanhalelor"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social" alt="@kanhalelor" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Educator;Open+Source+Advocate;Building+Impact+Through+Tech&center=true&width=500&height=45">
 </p>
-
-# My public work!
-- 👨‍💻 All of my projects are available [here](https://github.com/Kanhalelor?tab=repositories)
-
-# My Last Blog posts
-- [From limited resources to victory: How my school learners won the NUST Annual Programming Competition using Python](https://kanhalelor.github.io/blog/nust-2025-annua-programming-competition-winners.html)
 
 ---
 
+### 🚀 Software Developer | Educator | Open Source Advocate
+
+I’m a passionate **software developer and educator** from Namibia, dedicated to building impactful tech solutions and empowering the next generation of developers through **open-source and education**.
+
+---
+
+## 🌍 About Me
+
+* 👨‍🏫 Computer Science Educator
+* 🎓 Master's Student in Educational Technology
+* 💡 Advocate for Open Source Software in Education
+* 🎤 International Speaker (PyCon Africa, PyCon ZA)
+* 👨‍💻 Full-Stack Developer
+
+---
+
+## 🧠 What I Care About
+
+* Empowering students through **coding & problem-solving**
+* Bridging the gap between **education and real-world tech**
+* Promoting **open-source adoption in schools**
+* Building **scalable and meaningful software systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge\&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge\&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge\&logo=java)
+
+### ⚙️ Tools & Platforms
+
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge\&logo=linux)
+![NGINX](https://img.shields.io/badge/-NGINX-333?style=for-the-badge\&logo=nginx)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge\&logo=git)
+
+### ☁️ Cloud
+
+![Google Cloud](https://img.shields.io/badge/-GCP-333?style=for-the-badge\&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-333?style=for-the-badge\&logo=microsoft-azure)
+
+---
+
+## 📚 Featured Work
+
+* 🔗 [My GitHub Projects](https://github.com/Kanhalelor?tab=repositories)
+* ✍️ [My Blog](https://kanhalelor.github.io/blog/)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=kanhalelor&show_icons=true&theme=radical" />
-  <br /><br />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhalelor&layout=compact&theme=vision-friendly-dark" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhalelor&theme=black-ice"  />
-  <br />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhalelor&theme=black-ice" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanhalelor&theme=github_dark" />
 </p>
 
 ---
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://kanhalelor.github.io/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="https://kanhalelor.github.io/" height="32" width="32" /></a>
-  <a href="https://twitter.com/intent/follow?screen_name=kanhalelor" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="https://twitter.com/kanhalelor" height="32" width="32" /></a>
+  <a href="https://kanhalelor.github.io/">
+    <img src="https://img.icons8.com/color/48/domain.png" height="32"/>
+  </a>
+  <a href="https://twitter.com/kanhalelor">
+    <img src="https://img.icons8.com/color/48/twitter.png" height="32"/>
+  </a>
 </p>
 
+---
+
+## ⚡ Fun Fact
+
+I don’t just teach coding — I actively build ecosystems where learners become developers, innovators, and problem-solvers.
