@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Robson Kanhalelo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Educator;Open+Source+Advocate;Building+Impact+Through+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Educator;Open+Source+Advocate;Building+Impact+Through+Tech&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,20 +14,20 @@ I’m a passionate **software developer and educator** from Namibia, dedicated t
 
 ## 🌍 About Me
 
-* 👨‍🏫 Computer Science Educator
-* 🎓 Master's Student in Educational Technology
-* 💡 Advocate for Open Source Software in Education
-* 🎤 International Speaker
-* 👨‍💻 Full-Stack Developer
+- 👨‍🏫 Computer Science Educator
+- 🎓 Master's Student in Educational Technology
+- 💡 Advocate for Open Source Software in Education
+- 🎤 International Speaker
+- 👨‍💻 Full-Stack Developer
 
 ---
 
 ## 🧠 What I Care About
 
-* Empowering students through **coding & problem-solving**
-* Bridging the gap between **education and real-world tech**
-* Promoting **open-source adoption in schools**
-* Building **scalable and meaningful software systems**
+- Empowering students through **coding & problem-solving**
+- Bridging the gap between **education and real-world tech**
+- Promoting **open-source adoption in schools**
+- Building **scalable and meaningful software systems**
 
 ---
 
@@ -35,43 +35,43 @@ I’m a passionate **software developer and educator** from Namibia, dedicated t
 
 ### 💻 Languages & Frameworks
 
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge\&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
 
 ### ⚙️ Tools & Platforms
 
-![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge\&logo=linux)
-![NGINX](https://img.shields.io/badge/-NGINX-333?style=for-the-badge\&logo=nginx)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![NGINX](https://img.shields.io/badge/-NGINX-333?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 
 ### ☁️ Cloud
 
-![Google Cloud](https://img.shields.io/badge/-GCP-333?style=for-the-badge\&logo=google-cloud)
-![Azure](https://img.shields.io/badge/-Azure-333?style=for-the-badge\&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/-GCP-333?style=for-the-badge&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-333?style=for-the-badge&logo=microsoft-azure)
 
 ---
 
 ## 📚 Featured Work
 
-* 🔗 [My GitHub Projects](https://github.com/Kanhalelor?tab=repositories)
-* ✍️ [My Blog](https://kanhalelor.github.io/blog/)
+- 🔗 [My GitHub Projects](https://github.com/Kanhalelor?tab=repositories)
+- ✍️ [My Blog](https://kanhalelor.github.io/blog/)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanhalelor&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanhalelor&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhalelor&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhalelor&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhalelor&theme=black-ice" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanhalelor&theme=black-ice&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanhalelor&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanhalelor&theme=github_dark" alt="Profile Summary" />
 </p>
 
 ---
@@ -80,10 +80,10 @@ I’m a passionate **software developer and educator** from Namibia, dedicated t
 
 <p align="center">
   <a href="https://kanhalelor.github.io/">
-    <img src="https://img.icons8.com/color/48/domain.png" height="32"/>
+    <img src="https://img.icons8.com/color/48/domain.png" height="32" alt="Website" />
   </a>
   <a href="https://twitter.com/kanhalelor">
-    <img src="https://img.icons8.com/color/48/twitter.png" height="32"/>
+    <img src="https://img.icons8.com/color/48/twitter.png" height="32" alt="Twitter" />
   </a>
 </p>
 
